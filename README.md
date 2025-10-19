@@ -1,2 +1,2 @@
-Откройте файл index.js и узнаете о решениях задач из сайта edabit.com
+Open file and find out about problem solutions edabit.com
 
